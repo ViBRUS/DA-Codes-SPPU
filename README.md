@@ -25,7 +25,7 @@ Sample Test data set available here https://datahack.analyticsvidhya.com/contest
 
 #### For Dataset Mounting:
 
-###### - Upload the folder DA_datasets to Google Drive with same name- Upload the folder DA_datasets to Google Drive with same name. And follow instructions while running.
+###### - Upload the folder **DA_datasets** to Google Drive with same name- Upload the folder DA_datasets to Google Drive with same name. And follow instructions while running.
 ------------
  # :blush: Codes By 
 > Vishal R. Sonar
